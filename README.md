@@ -1,4 +1,4 @@
 # MyQuran
 
 
-Simple Quran Application for reding and listening
+Simple Quran Application for reading and listening
